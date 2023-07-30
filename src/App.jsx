@@ -1,11 +1,13 @@
 
 import './App.css'
-import Feed from './Feed' 
+// import Feed from './Feed' 
+import Login from './Login'
 
 function App() {
   return(
     <>
-        <Feed />
+        {/* <Feed /> */}
+        <Login />
     </>
   )
 }
